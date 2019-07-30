@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Concert", "01. Concert\01. Concert.csproj", "{7806E6B3-F999-4772-9E67-6E344BB3C4BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Song Encryption", "02. Song Encryption\02. Song Encryption.csproj", "{5B9C2EEF-B94D-4605-8FF0-8AE6BF9CBED6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7806E6B3-F999-4772-9E67-6E344BB3C4BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7806E6B3-F999-4772-9E67-6E344BB3C4BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7806E6B3-F999-4772-9E67-6E344BB3C4BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7806E6B3-F999-4772-9E67-6E344BB3C4BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B9C2EEF-B94D-4605-8FF0-8AE6BF9CBED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B9C2EEF-B94D-4605-8FF0-8AE6BF9CBED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B9C2EEF-B94D-4605-8FF0-8AE6BF9CBED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B9C2EEF-B94D-4605-8FF0-8AE6BF9CBED6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5334643-ED9A-449F-A4DE-1453A029260A}
+	EndGlobalSection
+EndGlobal
